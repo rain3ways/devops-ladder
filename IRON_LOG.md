@@ -1,0 +1,1 @@
+- [x] IR-O4: hello.sh - script that greeting by name, with usage message and proper exit code
