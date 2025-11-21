@@ -1,0 +1,6 @@
+- ls    : list directory contents
+- cd    : change directory
+- grep  : search for pattern in each file
+- mkdir : create directory
+- cp    : copy 
+- mv    : move or rename
